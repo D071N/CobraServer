@@ -1,0 +1,22 @@
+{
+  "name": "Cobra-server",
+  "version": "1.0.0",
+  "description": "Cobra",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Cobra-server"
+  ],
+  "author": "Moded By ERR0R_404",
+  "license": "LOL",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
